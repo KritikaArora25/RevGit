@@ -1,3 +1,3 @@
 # RevGit
 Revising Git and github.<br>
--Kritika
+Author - Kritika Arora :)
